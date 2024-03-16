@@ -1,0 +1,442 @@
+[
+    {
+        "id": "fruta-01",
+        "titulo": "Papa Blanca",
+        "imagen": "./img/frutas/01.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 34.95
+    },
+    {
+        "id": "fruta-02",
+        "titulo": "Chile Jalapeño",
+        "imagen": "./img/frutas/02.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 19.95
+    },
+    {
+        "id": "fruta-03",
+        "titulo": "Aguacate",
+        "imagen": "./img/frutas/03.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 24.95
+    },
+    {
+        "id": "fruta-04",
+        "titulo": "Manzana",
+        "imagen": "./img/frutas/04.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 31
+    },
+    {
+        "id": "fruta-05",
+        "titulo": "Elote",
+        "imagen": "./img/frutas/05.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 9.95
+    },
+    {
+        "id": "fruta-06",
+        "titulo": "Jicama",
+        "imagen": "./img/frutas/06.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 24.95
+    },
+    {
+        "id": "fruta-07",
+        "titulo": "Brocolí",
+        "imagen": "./img/frutas/07.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 41
+    },
+    {
+        "id": "fruta-08",
+        "titulo": "Cilantro",
+        "imagen": "./img/frutas/08.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 7.95
+    },
+    {
+        "id": "fruta-09",
+        "titulo": "Lechuga",
+        "imagen": "./img/frutas/09.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 17.50
+    },
+    {
+        "id": "fruta-10",
+        "titulo": "Uvas",
+        "imagen": "./img/frutas/10.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 73
+    },
+    {
+        "id": "fruta-11",
+        "titulo": "Cebolla",
+        "imagen": "./img/frutas/11.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 59.95
+    },
+    {
+        "id": "fruta-12",
+        "titulo": "Tomate",
+        "imagen": "./img/frutas/12.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 39.95
+    },
+    {
+        "id": "fruta-13",
+        "titulo": "Papaya",
+        "imagen": "./img/frutas/13.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 41
+    },
+    {
+        "id": "fruta-14",
+        "titulo": "Plátano",
+        "imagen": "./img/frutas/14.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 19.95
+    },
+    {
+        "id": "fruta-15",
+        "titulo": "Pepino",
+        "imagen": "./img/frutas/15.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 48
+    },
+    {
+        "id": "fruta-16",
+        "titulo": "Mango",
+        "imagen": "./img/frutas/16.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 39.90
+    },
+    {
+        "id": "fruta-17",
+        "titulo": "Limon",
+        "imagen": "./img/frutas/17.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 56
+    },
+    {
+        "id": "fruta-18",
+        "titulo": "Piña",
+        "imagen": "./img/frutas/18.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 18.90
+    },
+    {
+        "id": "fruta-19",
+        "titulo": "Sandía",
+        "imagen": "./img/frutas/19.jpeg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "fruteria"
+        },
+        "precio": 18.50
+    },
+    {
+        "id": "Pan-01",
+        "titulo": "Pan Blanco",
+        "imagen": "./img/panes/01.jpeg",
+        "categoria": {
+            "nombre": "Panes",
+            "id": "panaderia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pan-02",
+        "titulo": "Tortilla de maíz",
+        "imagen": "./img/panes/02.jpeg",
+        "categoria": {
+            "nombre": "Panes",
+            "id": "panaderia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pan-03",
+        "titulo": "Tostadas",
+        "imagen": "./img/panes/03.jpeg",
+        "categoria": {
+            "nombre": "Panes",
+            "id": "panaderia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pan-04",
+        "titulo": "Pan para hamburguesa",
+        "imagen": "./img/panes/04.jpeg",
+        "categoria": {
+            "nombre": "Panes",
+            "id": "panaderia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pan-05",
+        "titulo": "Totopos",
+        "imagen": "./img/panes/05.jpeg",
+        "categoria": {
+            "nombre": "Panes",
+            "id": "panaderia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pan-06",
+        "titulo": "Pan Dulce(Variedad)",
+        "imagen": "./img/panes/06.jpeg",
+        "categoria": {
+            "nombre": "Panes",
+            "id": "panaderia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pan-07",
+        "titulo": "Pan Para Hot-Dog",
+        "imagen": "./img/panes/07.jpeg",
+        "categoria": {
+            "nombre": "Panes",
+            "id": "panaderia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pan-08",
+        "titulo": "Baguette",
+        "imagen": "./img/panes/08.jpeg",
+        "categoria": {
+            "nombre": "Panes",
+            "id": "panaderia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Carne-01",
+        "titulo": "Carne Molida",
+        "imagen": "./img/meat/01.jpeg",
+        "categoria": {
+            "nombre": "Carnes",
+            "id": "carnes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Carne-02",
+        "titulo": "Salmon",
+        "imagen": "./img/meat/02.jpeg",
+        "categoria": {
+            "nombre": "Carnes",
+            "id": "carnes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Carne-03",
+        "titulo": "Atún",
+        "imagen": "./img/meat/03.jpeg",
+        "categoria": {
+            "nombre": "Carnes",
+            "id": "carnes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Carne-04",
+        "titulo": "Carne de Res",
+        "imagen": "./img/meat/04.jpeg",
+        "categoria": {
+            "nombre": "Carnes",
+            "id": "carnes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Carne-05",
+        "titulo": "Milanesa de Pollo",
+        "imagen": "./img/meat/05.jpeg",
+        "categoria": {
+            "nombre": "Carnes",
+            "id": "carnes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Carne-06",
+        "titulo": "Pierna y Muslo de Pollo",
+        "imagen": "./img/meat/06.jpeg",
+        "categoria": {
+            "nombre": "Carnes",
+            "id": "carnes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Carne-07",
+        "titulo": "Alitas de pollo adobadas",
+        "imagen": "./img/meat/07.jpeg",
+        "categoria": {
+            "nombre": "Carnes",
+            "id": "carnes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Carne-08",
+        "titulo": "Chuleta de cerdo",
+        "imagen": "./img/meat/08.jpeg",
+        "categoria": {
+            "nombre": "Carnes",
+            "id": "carnes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Carne-09",
+        "titulo": "Camarón",
+        "imagen": "./img/meat/09.jpeg",
+        "categoria": {
+            "nombre": "Carnes",
+            "id": "carnes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Carne-10",
+        "titulo": "surimi",
+        "imagen": "./img/meat/10.jpeg",
+        "categoria": {
+            "nombre": "Carnes",
+            "id": "carnes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Carne-11",
+        "titulo": "Chorizo",
+        "imagen": "./img/meat/11.jpeg",
+        "categoria": {
+            "nombre": "Carnes",
+            "id": "carnes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Latas-01",
+        "titulo": "Aceite",
+        "imagen": "./img/latas/01.jpeg",
+        "categoria": {
+            "nombre": "Abarrotes",
+            "id": "abarrotes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Latas-02",
+        "titulo": "Arroz",
+        "imagen": "./img/latas/02.jpeg",
+        "categoria": {
+            "nombre": "Abarrotes",
+            "id": "abarrotes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Latas-03",
+        "titulo": "Mayonesa",
+        "imagen": "./img/latas/03.jpeg",
+        "categoria": {
+            "nombre": "Abarrotes",
+            "id": "abarrotes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Latas-04",
+        "titulo": "Katsup",
+        "imagen": "./img/latas/04.jpeg",
+        "categoria": {
+            "nombre": "Abarrotes",
+            "id": "abarrotes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Latas-05",
+        "titulo": "Café Soluble",
+        "imagen": "./img/latas/05.jpeg",
+        "categoria": {
+            "nombre": "Abarrotes",
+            "id": "abarrotes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Latas-06",
+        "titulo": "Ázucar",
+        "imagen": "./img/latas/06.jpeg",
+        "categoria": {
+            "nombre": "Abarrotes",
+            "id": "abarrotes"
+        },
+        "precio": 1000
+    }
+]
